@@ -44,7 +44,7 @@ $$
 $$
 
 $$
-\text{Quotient Rule: } \frac{d}{dx} \frac{f}{g} = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{g^2}
+\text{Quotient Rule: } \frac{d}{dx} \frac{f}{g} = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{g(x)^2}
 $$
 
 $$
